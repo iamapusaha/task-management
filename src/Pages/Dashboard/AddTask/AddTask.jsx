@@ -32,7 +32,7 @@ const AddTask = ({ showModal, setShowModal, refetch }) => {
         console.log(newTask);
         axios
             .post(
-                "http://localhost:3000/tasks",
+                "http://localhost:5000/tasks",
                 newTask
             )
             .then((res) => {
