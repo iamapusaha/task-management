@@ -1,0 +1,92 @@
+[
+    {
+      "title": "Finish Project Proposal",
+      "description": "Write a detailed project proposal for the upcoming client meeting.",
+      "deadline": "2023-02-15",
+      "priority": "high",
+      "backgroundColor": "#EA3A77",
+      "status": "todo",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Meeting with Team",
+      "description": "Discuss project progress and assign tasks to team members.",
+      "deadline": "2023-02-10",
+      "priority": "moderate",
+      "backgroundColor": "#FF02F0",
+      "status": "ongoing",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Update Website Content",
+      "description": "Review and update the content on the company website.",
+      "deadline": "2023-02-20",
+      "priority": "low",
+      "backgroundColor": "#AA6AE2",
+      "status": "todo",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Prepare Presentation",
+      "description": "Create a presentation for the client meeting next week.",
+      "deadline": "2023-02-18",
+      "priority": "high",
+      "backgroundColor": "#EA3A77",
+      "status": "todo",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Monthly Report",
+      "description": "Compile and send out the monthly performance report to stakeholders.",
+      "deadline": "2023-02-28",
+      "priority": "moderate",
+      "backgroundColor": "#FF02F0",
+      "status": "ongoing",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Review Budget",
+      "description": "Review and update the project budget for the next quarter.",
+      "deadline": "2023-02-25",
+      "priority": "low",
+      "backgroundColor": "#AA6AE2",
+      "status": "completed",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Client Follow-up",
+      "description": "Follow up with the client to gather additional requirements.",
+      "deadline": "2023-02-12",
+      "priority": "high",
+      "backgroundColor": "#EA3A77",
+      "status": "ongoing",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Bug Fixes",
+      "description": "Address and fix critical bugs reported by users.",
+      "deadline": "2023-02-22",
+      "priority": "moderate",
+      "backgroundColor": "#FF02F0",
+      "status": "ongoing",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Content Marketing Plan",
+      "description": "Develop a content marketing plan for the next quarter.",
+      "deadline": "2023-02-28",
+      "priority": "low",
+      "backgroundColor": "#AA6AE2",
+      "status": "completed",
+      "email" : "fuler@tora.com"
+    },
+    {
+      "title": "Team Building Workshop",
+      "description": "Plan and organize a team-building workshop for the department.",
+      "deadline": "2023-03-05",
+      "priority": "high",
+      "backgroundColor": "#EA3A77",
+      "status": "completed",
+      "email" : "fuler@tora.com"
+    }
+  ]

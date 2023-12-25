@@ -1,0 +1,17 @@
+/* Navbar.css */
+
+/* Style for regular anchor tags */
+.navbar a {
+    color: rgb(210, 230, 236);
+    text-decoration: none;
+    font-size: large;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  /* Hover styles for anchor tags */
+  .navbar a:hover {
+    background-color: #1a6979; /* Adjust the background color on hover */
+    color: #ffffff; /* Adjust the text color on hover */
+  }
+  
