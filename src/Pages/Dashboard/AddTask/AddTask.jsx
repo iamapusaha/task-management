@@ -32,7 +32,7 @@ const AddTask = ({ showModal, setShowModal, refetch }) => {
         console.log(newTask);
         axios
             .post(
-                "http://localhost:5000/tasks",
+                "https://task-management-server-two-chi.vercel.app/tasks",
                 newTask
             )
             .then((res) => {

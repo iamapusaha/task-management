@@ -5,7 +5,7 @@ const Task = ({ t, refetch }) => {
     const { title, description, deadline, priority, status, _id } = t;
 
     const handleDelete = () => {
-        axios.delete(`http://localhost:5000/tasks/${_id}`)
+        axios.delete(`https://task-management-server-two-chi.vercel.app/tasks/${_id}`)
             .then((data) => {
                 console.log(data.data);
                 refetch();
