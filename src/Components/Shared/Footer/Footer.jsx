@@ -19,7 +19,7 @@ const Footer = () => {
             <div className="border-t border-gray-700 mt-8 pt-4 text-center">
                 <p>&copy; 2023 TaskHub. All rights reserved.</p>
                 <p>
-                    Designed by <a href="https://yourwebsite.com" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Task Hub</a>
+                    Designed by <a href="https://yourwebsite.com" className="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">Apu Saha</a>
                 </p>
             </div>
         </footer>
